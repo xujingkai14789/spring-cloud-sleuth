@@ -17,7 +17,7 @@ Spring Cloud Sleuth provides Spring Boot auto-configuration for distributed trac
 Sleuth configures everything you need to get started.
 This includes where trace data (spans) are reported to, how many traces to keep (sampling), if remote fields (baggage) are sent, and which libraries are traced.
 
-=== Quick Start
+=== Quick Start test
 
 Add Spring Cloud Sleuth to the classpath of a Spring Boot application (together with a Tracer implementation) and you will see trace IDs in logs.
 Example of Sleuth with Brave tracer:
